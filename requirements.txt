@@ -1,12 +1,9 @@
 geopandas
-shapely.geometry
+shapely
 pandas
-plotly.express
-hvplot.pandas
+plotly
+hvplot
 matplotlib
-matplotlib.pyplot
-
 folium
-folium.plugins
 panel
 cython
