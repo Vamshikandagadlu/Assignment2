@@ -1,14 +1,14 @@
-import geopandas as gpd
-from shapely.geometry import Point
-import pandas as pd
-import plotly.express as px
-import hvplot.pandas
-import matplotlib
-import matplotlib.pyplot as plt
+geopandas
+shapely.geometry
+pandas
+plotly.express
+hvplot.pandas
+matplotlib
+matplotlib.pyplot
 
-import folium
-from folium.plugins import MarkerCluster
-import panel as pn
+folium
+folium.plugins
+panel as pn
 pn.extension()
 pn.extension('plotly', design='material')
 cython
