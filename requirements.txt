@@ -9,6 +9,4 @@ matplotlib.pyplot
 folium
 folium.plugins
 panel
-pn.extension()
-pn.extension('plotly', design='material')
 cython
