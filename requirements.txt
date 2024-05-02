@@ -11,3 +11,4 @@ from folium.plugins import MarkerCluster
 import panel as pn
 pn.extension()
 pn.extension('plotly', design='material')
+cython
