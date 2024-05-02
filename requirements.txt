@@ -1,9 +1,0 @@
-geopandas
-shapely
-pandas
-plotly
-hvplot
-matplotlib
-folium
-panel
-cython
